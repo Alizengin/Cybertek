@@ -9,8 +9,7 @@
         String name = "Ali";
         int birthYear = 1999;
         int age = 2020- birthYear;
-        System.out.println("Hello, "+name+"!"+ " Based  in your Input," +
-                " your age is "+age+" :)");
+        System.out.println("Hello, "+name+"!"+ " Based  in your Input," +" your age is "+age+" :)");
         System.out.println();
 
         //Question 3
