@@ -26,7 +26,7 @@
         Num1 = Num1 + Num2;
         Num2 = Num1 - Num2;
         Num1 = Num1 - Num2;
-        System.out.println("n1="+Num1 + " quarter=" +Num2);
+        System.out.println("n1="+Num1 + " n2=" +Num2);
         System.out.println();
 
 
