@@ -31,9 +31,7 @@
                     System.out.println("How many spots?");
                     garageSpots = scan.nextInt();
                     if (garageSpots <= 10){
-                        for (int i = 1; i <= garageSpots; i++) {
-                            propertyPrice += (i * 20000);
-                        }
+                        propertyPrice += garageSpots*20000;
                     }else{
                         System.out.println("Pardon, it's not a public parking!");
                     }
@@ -95,9 +93,7 @@
                     System.out.println("How many spots?");
                     garageSpots = scan.nextInt();
                     if (garageSpots <= 10){
-                        for (int i = 1; i <= garageSpots; i++) {
-                            propertyPrice += (i * 20000);
-                        }
+                        propertyPrice += garageSpots*20000;
                     }else{
                         System.out.println("Pardon, it's not a public parking!");
                     }
@@ -160,9 +156,7 @@
                     System.out.println("How many spots?");
                     garageSpots = scan.nextInt();
                     if (garageSpots <= 10){
-                        for (int i = 1; i <= garageSpots; i++) {
-                            propertyPrice += (i * 20000);
-                        }
+                         propertyPrice += garageSpots*20000;
                     }else{
                         System.out.println("Pardon, it's not a public parking!");
                     }
