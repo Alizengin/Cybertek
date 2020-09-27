@@ -72,8 +72,8 @@
                     propertyPrice += -5000;
                 }
 
-                System.out.println("Market Report has been generated.");
-                System.out.println("Your estimate market price is: "+ propertyPrice);
+                System.out.println("Market report has been generated.");
+                System.out.println("Your estimate market price is: "+ propertyPrice+"$");
 
                 break;
 
@@ -134,8 +134,8 @@
                 if (smoking == true){
                     propertyPrice += -5000;
                 }
-                System.out.println("Market Report has been generated.");
-                System.out.println("Your estimate market price is: "+ propertyPrice);
+                System.out.println("Market report has been generated.");
+                System.out.println("Your estimate market price is: "+ propertyPrice+"$");
 
 
                 break;
