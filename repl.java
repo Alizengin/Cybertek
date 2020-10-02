@@ -31,7 +31,6 @@ public class Main {
         num2 = scan.nextInt();
         num3 = scan.nextInt();
         sum = num1+num2+num3;
-
         System.out.println("Sum of numbers: "+sum);
 
   }
