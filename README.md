@@ -3,7 +3,7 @@
 ## My name is Muhammed Ali
 -👨🏻‍💻 I'm currently studying SDET at Cybertek
 
--⚡ And as a IoT student at PXL Hasselt [PXL]
+-⚡ And as a IoT student at PXL Hasselt [<img align="left" alt="PXL" width="26px" src="https://www.pxl.be/img/logo.png" />][pxl]
 
 -📅 I'm currently 21 years old
 
@@ -37,4 +37,5 @@
 [spotify]: https://open.spotify.com/playlist/74sUjcvpGfdOvCHvgzNEDO?si=Mo5zoGcGRKKxK4eII4e-MA
 [twitter]: https://twitter.com/MAliZengin2
 [instagram]: https://twitter.com/MAliZengin2
+[pxl]: https://www.pxl.be/
 
