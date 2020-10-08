@@ -3,9 +3,10 @@
 ## My name is Muhammed Ali
 -👨🏻‍💻 I'm currently studying SDET at Cybertek
 
--⚡ And as a IoT student at PXL Hasselt [<img align="left" alt="PXL" width="26px" src="https://www.pxl.be/img/logo.png" />][pxl]
+-⚡ And as a IoT student at PXL Hasselt [<img align="center" alt="PXL" width="26px" src="https://www.pxl.be/img/logo.png" />][pxl]
 
 -📅 I'm currently 21 years old
+
 
 ### Spotify Playing 🎧
 
@@ -30,6 +31,7 @@
 [<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/455px-C_Sharp_logo.svg.png" />][spotify]
 [<img align="left" alt="Intellij" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd5%2FIntelliJ_IDEA_Logo.svg%2F1200px-IntelliJ_IDEA_Logo.svg.png&f=1&nofb=1" />][spotify]
 [<img align="left" alt="Visio" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F3701%2Fscreenshots%2F3100068%2Ficon_2x.png&f=1&nofb=1" />][spotify]
+[<img align="left" alt="Trikker" width="26px" src="https://www.bluebits.be/media/trikker_w200.png" />][spotify]
 
 
 
