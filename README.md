@@ -29,6 +29,10 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/455px-C_Sharp_logo.svg.png" />]
 [<img align="left" alt="Intellij" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd5%2FIntelliJ_IDEA_Logo.svg%2F1200px-IntelliJ_IDEA_Logo.svg.png&f=1&nofb=1" />]
+[<img align="left" alt="Visio" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F3701%2Fscreenshots%2F3100068%2Ficon_2x.png&f=1&nofb=1" />]
+
+
+
 
 
 
