@@ -139,14 +139,16 @@ public class ReturningData {
         System.out.println("\n");
         //Question-13
 
-        String W = "W";
-        String B = "B";
-        for (int j = 1; j <= 8; j++) {
-            for (int k = 1; k <= 4 ; k++) {
-                System.out.print(" "+W+" "+B);
-            }
-            System.out.println();
-        }
+        for(int i=1;i<=4;i++) {
+			for(int j=1;j<=4;j++) {
+				System.out.print("W"+" "+"B ");
+				}
+			System.out.println();
+			for(int j=1;j<=4;j++) {
+				System.out.print("B"+" "+"W ");
+				}
+			System.out.println();
+		}
 
         ////////////////////////////////////////////////////
         System.out.println("\n");
