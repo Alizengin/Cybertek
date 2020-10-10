@@ -52,8 +52,55 @@ public class asst10 {
         }
         
            //Question-058
-           
+             String word = scan.nextLine();
+        String sentence = scan.nextLine();
 
+      if (sentence.contains(word)){
+          System.out.println(true);
+      }else {
+          System.out.println(false);
+      }
+      
+      //Question-059
+        String name1, name2, user;
+        name1 = "max payne";
+        name2 = "alan wake";
+        System.out.println("Enter full name:");
+        user = scan.nextLine();
+        user = user.toLowerCase();
+
+        if (user.equals(name1) || user.equals(name2)){
+            System.out.println("User found!");
+        }else{
+            System.out.println("User not found!");
+        }
+        
+        //Question-060
+          int x  = scan.nextInt();
+        String result = (x >= 5) ? String.valueOf(x) : String.valueOf(-x);
+        System.out.println(result);
+        
+        //Question-061
+         System.out.println("Enter number1:");
+        int num1 = scan.nextInt();
+        System.out.println("Enter number2:");
+        int num2 = scan.nextInt();
+
+        int res = (num1 > num2) ? num1 : num2 ;
+        System.out.println(res);
+        
+        //Question-080
+        
+        
+        //Question-081
+        
+         int x =0;
+    while(x <=100){
+      System.out.println(x);
+      x++;
+    }
+    
+        
 
     }
 }
