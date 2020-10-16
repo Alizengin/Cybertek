@@ -1,0 +1,32 @@
+public class asst10 {
+
+    public static void main(String[] args) {
+       if (isPrime(2)){
+           System.out.println("2 is a primer number");
+
+       }else {
+           System.out.println("2 is not a prime number");
+       }
+    }
+
+
+//We check if the number is divisible by any number. 
+ 
+    public static boolean isPrime(int number){
+        boolean flag = true;
+
+        if (number == 0 || number ==1){
+            flag = false;
+            
+        }else {
+            for (int i = 2; i <number ; i++) {
+                if (number % i == 0){
+                 flag = false;
+                    break;
+                }
+            }
+        }
+        return flag;
+    }
+
+}
