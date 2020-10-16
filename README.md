@@ -13,3 +13,4 @@
  * [Assigment-6](https://github.com/Alizengin/Cybertek/blob/master/src/Assigment-6 "Assigment-6")
  * [Repl 60-81](https://github.com/Alizengin/Cybertek/blob/master/src/Repl%2060-81 "Repl 60-81")
  * [Prime Number Check](https://github.com/Alizengin/Cybertek/blob/master/src/Prime%20number%20check "Prime Numbe Check")
+ * [Assigment-8](https://github.com/Alizengin/Cybertek/blob/master/src/Assigment-8 "Assigment-8")
