@@ -1,0 +1,67 @@
+ //Question-1
+  Scanner scan = new Scanner(System.in);
+    ArrayList<Integer> allNums = new ArrayList<Integer>();
+    int choice = 0;
+    System.out.println("Enter your first number:");
+    allNums.add(scan.nextInt());
+    System.out.println("Enter your second number");
+    allNums.add(scan.nextInt());
+
+
+
+        do {
+
+            System.out.println("Do you want to enter another number: 0-No, 1-Yes");
+            choice = scan.nextInt();
+            if (choice == 0){
+                break;
+            }
+            System.out.println("Enter your next number:");
+            allNums.add(scan.nextInt());
+
+        }while (choice == 1);
+
+    System.out.println("The smallest is: "+ Collections.min(allNums));
+    System.out.println("The largest is: " + Collections.max(allNums));
+
+    //Question-2
+
+    /*40 pc = 10 serving
+        it means that 4 piece of cookies are equal to 1 serving
+        by this we can say that 4 cookies equal to 300 calories.
+        300 / 4 - 75 calories per cookie.
+    * */
+
+    System.out.println("Please enter eten amount of cookies: ");
+    int amount  = scan.nextInt();
+    int calories = amount * 75;
+    System.out.println("You have eten: "+calories+" calories");
+
+    //Question-3
+    System.out.println("Please enter positive nonzero integer: ");
+    int userInput = scan.nextInt();
+    int total = 0;
+    for (int i = 1; i <= userInput ; i++) {
+        total += i;
+    }
+    System.out.println("Sum of numbers: "+total);
+
+    //Question-4
+    System.out.println("Enter number of Male students: ");
+    int amele = scan.nextInt();
+    System.out.println("enter number of Female students: ");
+    int female = scan.nextInt();
+
+    int malePerc = (int)((double)amele / (amele+female) * 100);
+    int femalePerc = (int)((double)female / (amele+female) * 100);
+    System.out.println("Female: "+femalePerc+"%" + " Male: "+malePerc+"%");
+
+    //Quesetion-5
+    System.out.println("Please enter your meal charge: ");
+    double mealCharge = scan.nextDouble();
+    double tax = (0.0675*mealCharge);
+    double tip = (0.2 * (mealCharge + tax));
+    System.out.println("Meal charge: "+mealCharge);
+    System.out.println("Tax: "+tax);
+    System.out.println("Tip: "+tip);
+}
