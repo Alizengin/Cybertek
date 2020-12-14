@@ -15,5 +15,6 @@
  * [Repl 60-81](https://github.com/Alizengin/Cybertek/blob/master/src/Repl%2060-81 "Repl 60-81")
  * [Prime Number Check](https://github.com/Alizengin/Cybertek/blob/master/src/Prime%20number%20check "Prime Numbe Check")
  * [Lab-2](https://github.com/Alizengin/Cybertek/blob/master/src/Lab2 "Lab-2")
+ * [OOP Questions](https://github.com/Alizengin/Cybertek/tree/master/OOP%20Questions "OOP Questions")
 
 
